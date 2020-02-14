@@ -9,7 +9,7 @@
 ## classical languages toolkit (cltk)
 
 - [homepage](http://cltk.org)
-- [information page](http://docs.cltk.org/en/latest/)
+- [documentation](http://docs.cltk.org/en/latest/)
 - [github page](https://github.com/cltk)
 --> [tutorials](https://github.com/cltk/tutorials)
 
