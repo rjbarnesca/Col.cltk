@@ -5,7 +5,7 @@ Digital Media & Collaboration Lab
 
 ## 2/14 [Introduction](/resources/feb14.md)
 
-- introductions of member
+- introductions of individual members
 - introduction to cltk and jupyter notebooks
-- downloads of Anaconda
+- downloads of Anaconda and cltk
 
