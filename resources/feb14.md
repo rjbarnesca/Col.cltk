@@ -19,4 +19,7 @@
 ## download cltk
 - [tutorial 1](https://github.com/cltk/tutorials/blob/master/1%20CLTK%20Setup.ipynb)
 
+## for next time...
+- make a github account
+- peruse the cltk documentation page
 
