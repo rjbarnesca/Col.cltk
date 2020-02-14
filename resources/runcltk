@@ -1,0 +1,10 @@
+***
+everytime you want to run cltk, you must enter the following into your terminal
+***
+
+
+$ cd ~/
+$ cd cltk
+$ python3.7 -m venv venv
+$ source venv/bin/activate
+$ jupyter notebook
