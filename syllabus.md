@@ -7,7 +7,7 @@ title: Syllabus col cltk 2020
 Fridays 2:00 - 3:00 PM
 Digital Media & Collaboration Lab
 
-## 2/14 [Introduction]
+## 2/14 [Introduction](/resources/feb14)
 
 - introductions of member
 - introduction to cltk and jupyter notebooks
