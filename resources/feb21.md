@@ -1,3 +1,7 @@
+# 2/21/20
+
+## if you haven't already [download anaconda and cltk](resources/feb14/#downloads)
+
 ## if you haven't already [download anaconda and cltk](/resources/feb14.md)
 ### first, download [anaconda](https://www.anaconda.com/distribution/)
 
