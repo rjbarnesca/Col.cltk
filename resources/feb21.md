@@ -35,4 +35,6 @@ $ jupyter notebook
 NB whenever you want to use the cltk again, you must recreate the virtual environment in the cltk folder before opening the jupyter notebook. For convenience, I've put the code for opening cltk [here](/resources/runcltk)
 
 ## import corpora
-- 
+
+1. get a jupyter notebook [running with cltk](/resources/runcltk)
+2. import 
