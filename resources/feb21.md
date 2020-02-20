@@ -29,8 +29,9 @@ $ pip install cltk
 ```
 $ jupyter notebook
 ```
-7. voila!
+7. ...and voila!
 
-NB whenever you want to use the cltk again, you must recreate the virtual environment in the cltk folder before opening the jupyter notebook. For convenience, I've put the code for opening cltk [here](/resources/openingcltk.py)
+NB whenever you want to use the cltk again, you must recreate the virtual environment in the cltk folder before opening the jupyter notebook. For convenience, I've put the code for opening cltk [here](/resources/runcltk)
+
 ## import corpora
 - 
