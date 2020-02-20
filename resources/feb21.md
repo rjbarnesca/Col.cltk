@@ -1,4 +1,4 @@
-## if you haven't already [download anaconda and cltk](/resources/feb14.md/downloads)
+## if you haven't already [download anaconda and cltk](/resources/feb14.md)
 ### first, download [anaconda](https://www.anaconda.com/distribution/)
 
 ### next, download [cltk](https://github.com/cltk/tutorials/blob/master/1%20CLTK%20Setup.ipynb) by following these steps
