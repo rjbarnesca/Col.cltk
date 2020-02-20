@@ -12,7 +12,7 @@
 - [github page](https://github.com/cltk)
 --> [tutorials](https://github.com/cltk/tutorials)
 
-## downloads
+## downloads {: #downloads }
 
 ### first, download [anaconda](https://www.anaconda.com/distribution/)
 
