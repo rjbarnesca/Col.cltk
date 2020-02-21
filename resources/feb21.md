@@ -7,3 +7,7 @@
 
 - open a jupyter notebook [from your terminal](/resources/runcltk)
 - follows the steps [here]
+
+## if we have time, import corpus readers
+- open a jupyter notebook [from your terminal](/resources/runcltk)
+- follows the steps [here]
