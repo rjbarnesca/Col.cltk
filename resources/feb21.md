@@ -6,7 +6,7 @@
 ## import corpora
 
 - open a jupyter notebook [from your terminal](/resources/runcltk)
-- follows the steps [here](/resources/Tutorial1ImportedCorpora.py)
+- follows the steps [here](/resources/Tutorial1ImportedCorpora)
 
 ## if we have time, import corpus readers
 - open a jupyter notebook [from your terminal](/resources/runcltk)
