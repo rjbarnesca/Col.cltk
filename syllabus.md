@@ -13,7 +13,7 @@ Digital Media & Collaboration Lab
 
 - downloads (if you haven't already)
 - import cltk corpora
-- import corpu readers (if time permits)
+- import corpus readers (if time permits)
 
 ## 2/28 [Basic natural language processing](https://github.com/cltk/tutorials/blob/master/3%20Basic%20NLP.ipynb)
 
