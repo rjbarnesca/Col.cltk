@@ -11,6 +11,10 @@ Digital Media & Collaboration Lab
 
 ## 2/21 [Import corpora](/resources/feb21.md)
 
+- downloads (if you haven't already)
+- import cltk corpora
+- import corpu readers (if time permits)
+
 ## 2/28 [Basic natural language processing](https://github.com/cltk/tutorials/blob/master/3%20Basic%20NLP.ipynb)
 
 ## 3/6 [Lemmatization](https://github.com/cltk/tutorials/blob/master/4%20Lemmatization.ipynb)
