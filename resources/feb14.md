@@ -16,7 +16,7 @@
 
 ### first, download [anaconda](https://www.anaconda.com/distribution/)
 
-### next, download [cltk](https://github.com/cltk/tutorials/blob/master/1%20CLTK%20Setup.ipynb) by following these steps
+### next, download cltk by following these steps
 
 1. download [git](https://git-scm.com/downloads) for use with corpus management 
 2. open terminal
