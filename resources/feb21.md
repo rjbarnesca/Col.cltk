@@ -10,4 +10,4 @@
 
 ## if we have time, import corpus readers
 - open a jupyter notebook [from your terminal](/resources/runcltk)
-- follows the steps [here]
+- follows the steps [here](Tutorial2-importCorpusReaders.ipynb)
