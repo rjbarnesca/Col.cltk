@@ -49,7 +49,6 @@ $ jupyter notebook
 
 NB whenever you want to use the cltk again, you must recreate the virtual environment in the cltk folder before opening the jupyter notebook. For convenience, I've put the code for opening cltk [here](/resources/runcltk)
 
-- download [anaconda](https://www.anaconda.com/distribution/)
 
 
 
