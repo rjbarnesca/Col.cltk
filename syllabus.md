@@ -3,11 +3,10 @@
 Fridays 2:00 - 3:00 PM
 Digital Media & Collaboration Lab
 
-## 2/14 [Introduction](/resources/feb14.md)
+## 2/14 Introduction
 
-- introductions of individual members
 - introduction to cltk and jupyter notebooks
-- downloads of Anaconda and cltk
+- [downloads](/resources/feb14.md) of Anaconda and cltk
 
 ## 2/21 [Import corpora](/resources/feb21.md)
 
