@@ -1,20 +1,7 @@
-# 2/14/20 - Introductions
+# Downloads of Anaconda and cltk
 
-## hello and welcome! 
-
-
-- natural languages toolkit([nltk](https://www.nltk.org))
-
-## classical languages toolkit (cltk)
-
-- [homepage](http://cltk.org)
-- [documentation](http://docs.cltk.org/en/latest/)
-- [github page](https://github.com/cltk)
---> [tutorials](https://github.com/cltk/tutorials)
-
-## downloads
-
-### first, download [anaconda](https://www.anaconda.com/distribution/)
+## first, download [anaconda](https://www.anaconda.com/distribution/)
+- this will provide you provide you with the langauge ([Python](https://www.python.org)) and the platform ([Jupyter Notebooks](https://jupyter.org)) for using the cltk
 
 ### next, download cltk by following these steps
 
@@ -48,11 +35,4 @@ $ jupyter notebook
 7. ...and voila!
 
 NB whenever you want to use the cltk again, you must recreate the virtual environment in the cltk folder before opening the jupyter notebook. For convenience, I've put the code for opening cltk [here](/resources/runcltk)
-
-
-
-
-## for next time...
-- make a github account
-- peruse the cltk documentation page
 
