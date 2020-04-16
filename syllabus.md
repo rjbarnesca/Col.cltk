@@ -5,14 +5,10 @@ Digital Media & Collaboration Lab
 
 ## 2/14 Introduction
 
-- introduction to [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing) cltk and jupyter notebooks
+- introduction to [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing), [Natural Languages Toolkit](https://www.nltk.org), [Classical Langauges Toolkit](http://cltk.org).
 - [downloads](/resources/feb14.md) of Anaconda and cltk
 
-## 2/21 [Import corpora](/resources/feb21.md)
-
-- downloads (if you haven't already)
-- import cltk corpora
-- import corpus readers (if time permits)
+## 2/21 [Import corpora and corpus readers](/resources/feb21.md)
 
 ## 2/28 [Basic natural language processing](/resources/Tutorial3BasicNLP.ipynb)
 
