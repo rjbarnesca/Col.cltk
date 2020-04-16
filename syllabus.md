@@ -5,7 +5,7 @@ Digital Media & Collaboration Lab
 
 ## 2/14 Introduction
 
-- introduction to cltk and jupyter notebooks
+- introduction to [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing) cltk and jupyter notebooks
 - [downloads](/resources/feb14.md) of Anaconda and cltk
 
 ## 2/21 [Import corpora](/resources/feb21.md)
