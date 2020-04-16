@@ -2,7 +2,7 @@
 
 ## hello and welcome! 
 
-## natural language processing([nlp](https://en.wikipedia.org/wiki/Natural_language_processing))
+
 - natural languages toolkit([nltk](https://www.nltk.org))
 
 ## classical languages toolkit (cltk)
