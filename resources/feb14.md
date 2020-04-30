@@ -43,5 +43,5 @@ $ jupyter notebook
 ```
 8. ...and voila!
 
-NB whenever you want to use the cltk again, you must recreate the virtual environment in the cltk folder before opening the jupyter notebook. For convenience, I've put the code for opening cltk [here](/resources/runcltk)
+**NB** *whenever you want to use the CLTK again, you should open it from your terminal after recreating the virtual environment within the same CLTK folder. I have put the code for opening CLTK [here](/resources/runcltk)*
 
