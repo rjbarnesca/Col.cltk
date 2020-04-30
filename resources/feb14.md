@@ -28,7 +28,7 @@ $ source venv/bin/activate
 $ pip install cltk
 ```
 
-6. at this point is will be useful to pip install several other tools which cltk will require the user to download to use sever 
+6. at this point it will be useful to pip install several other tools which cltk will depend on down the road 
 
 ```
 $ pip install beautifulsoup4
