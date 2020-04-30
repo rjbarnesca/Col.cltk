@@ -27,12 +27,21 @@ $ source venv/bin/activate
 ```
 $ pip install cltk
 ```
-6. open a jupyter notebook
+
+6. at this point is will be useful to pip install several other tools which cltk will require the user to download to use sever 
+
+```
+$ pip install beautifulsoup4
+$ pip install python-Levenshtein
+$ pip install -U matplotlib
+```
+
+7. open a jupyter notebook
 
 ```
 $ jupyter notebook
 ```
-7. ...and voila!
+8. ...and voila!
 
 NB whenever you want to use the cltk again, you must recreate the virtual environment in the cltk folder before opening the jupyter notebook. For convenience, I've put the code for opening cltk [here](/resources/runcltk)
 
