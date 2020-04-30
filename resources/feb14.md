@@ -1,18 +1,18 @@
 # Downloads of Anaconda and cltk
 
-## first, download [anaconda](https://www.anaconda.com/distribution/)
-- this will provide you provide you with the langauge ([Python](https://www.python.org)) and the platform ([Jupyter Notebooks](https://jupyter.org)) for using the cltk
+## first, download [Anaconda](https://www.anaconda.com/distribution/)
+- this will provide you provide you with the langauge ([Python](https://www.python.org)) and the platform ([Jupyter Notebooks](https://jupyter.org)) for using the CLTK
 
-### next, download cltk by following these steps
+### next, download CLTK by following these steps
 
 1. download [git](https://git-scm.com/downloads) for use with corpus management 
 2. open terminal
-3. make a cltk directory:
+3. make a CLTK directory:
 ```
 $ cd ~/
 $ mkdir cltk
 ```
-3. navigate to cltk directory: 
+3. navigate to CLTK directory: 
 
 ```
 $ cd cltk
@@ -22,13 +22,13 @@ $ cd cltk
 $ pyvenv venv
 $ source venv/bin/activate
 ```
-5. from here, install cltk
+5. from here, install CLTK
 
 ```
 $ pip install cltk
 ```
 
-6. at this point it will be useful to pip install several other tools which cltk will depend on down the road 
+6. at this point it will be useful to pip install several other tools which CLTK will depend on down the road 
 
 ```
 $ pip install beautifulsoup4
@@ -36,7 +36,7 @@ $ pip install python-Levenshtein
 $ pip install -U matplotlib
 ```
 
-7. open a jupyter notebook
+7. open a Jupyter Notebook
 
 ```
 $ jupyter notebook
